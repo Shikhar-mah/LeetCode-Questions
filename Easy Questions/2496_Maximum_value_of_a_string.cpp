@@ -19,6 +19,7 @@ class Solution {
             sum += (ch - '0')*pow10;
             pow10 *= 10;
         }
+        
         return sum;
     }
  
